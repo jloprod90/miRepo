@@ -1,0 +1,15 @@
+<productos>
+    <producto id_producto="P1">\n
+        <componente id="C1" cantidad="2"/>\n
+        <componente id="C2" cantidad="1"/>
+        <componente id="C3" cantidad="12"/>
+        <componente id="C7" cantidad="5"/>
+    </producto>
+    <producto id_producto="P2">
+        <componente id="C4" cantidad="2"/>
+        <componente id="C5" cantidad="1"/>
+        <componente id="C6" cantidad="12"/>
+        <componente id="C7" cantidad="5"/>
+    </producto>
+
+</productos>
